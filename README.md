@@ -40,7 +40,7 @@ kubectl apply -f label-add-webhook-deploy.yaml
 kubectl apply -f label-add-webhook-registration.yaml
 ```
 
-5: Test:
+5. Test:
 
 ```
 kubectl apply -f test-pod.yaml
